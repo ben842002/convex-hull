@@ -1,7 +1,9 @@
 # Convex Hull
 ### Christian Tropeano, Thomas Fargnoli, Benjamin Chau
 This final project for our Data Structures and Abstractions Class involves us implementing convex hulls using Graham's Scan Algorithm.
-We used the programming language C++ in order to implement the algorithm. This repo includes our project report as well as our presentation.
+We used the programming language C++ in order to implement the algorithm. This repo includes our project report as well as our presentation.  
+
+Project Report: https://docs.google.com/document/d/1uSx5zpu2EAoSC1ejO6xTMGHu3sWaS1q2g2b7pccspVo/edit?usp=sharing
 ## **Controls**:
 Z - Zooms in  
 U - Unzooms (only if zoomed in)  
