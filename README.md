@@ -7,8 +7,9 @@ C++ implementation of convex hulls using the Graham Scan Algorithm
 Christian Tropeano, Thomas Fargnoli, Benjamin Chau
 
 ## Project Report and Presentation
-#### [Report](https://docs.google.com/document/d/1uSx5zpu2EAoSC1ejO6xTMGHu3sWaS1q2g2b7pccspVo/edit?usp=sharing)  
-#### [Presentation](https://www.canva.com/design/DAEvAj2EzD0/vjaFdZsqUKKdzYJqynRNgg/view#1)  
+**Report: https://docs.google.com/document/d/1uSx5zpu2EAoSC1ejO6xTMGHu3sWaS1q2g2b7pccspVo/edit?usp=sharing**  
+
+**Presentation: https://www.canva.com/design/DAEvAj2EzD0/vjaFdZsqUKKdzYJqynRNgg/view#1**
 
 ## **Controls**:
 Z - Zooms in  
